@@ -1,0 +1,19 @@
+{
+  "name": "alvin_port_june2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinci101/alvin_port_june2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinci101/alvin_port_june2022/issues"
+  },
+  "homepage": "https://github.com/vinci101/alvin_port_june2022#readme"
+}
