@@ -45,6 +45,24 @@ p {
   color: crimson;
 }
 
+.sites {
+  display: inline-block;
+  padding: 10px 30px;
+  color: white;
+  background-color: transparent;
+  border: 5px solid rgb(7, 77, 109);
+  font-size: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  margin-top: 30px;
+  transition: 0.3s ease;
+  transition-property: background-color, color;
+}
+.sites:hover {
+  color: white;
+  background-color: rgb(31, 56, 146);
+}
+
 .cta {
   display: inline-block;
   padding: 10px 30px;
@@ -365,7 +383,7 @@ p {
   color: white;
 }
 #projects .project-info h1 {
-  font-size: 4rem;
+  font-size: 5rem;
   font-weight: 500;
 }
 #projects .project-info h2 {
